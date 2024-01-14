@@ -1,3 +1,2 @@
 This is the first line of the repo
 This is the line of Branch 1
-This is the line of Branch b
